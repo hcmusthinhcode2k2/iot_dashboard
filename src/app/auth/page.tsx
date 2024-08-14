@@ -22,7 +22,7 @@ export default async function page() {
             <div className="relative z-20 mt-auto">
               <blockquote className="space-y-2">
                 <p className="text-lg">
-                  &ldquo;Luôn cập nhật điều kiện thời tiết theo thời gian thực bằng trạm thời tiết di động của tôi. Cho dù bạn đang di chuyển hay ở nhà, thiết bị của chúng tôi đảm bảo bạn luôn được cập nhật thông tin và có thể dễ dàng điều chỉnh theo các điều kiện thời tiết thay đổi bất kể bạn ở đâu.&rdquo;
+                  &ldquo;Stay up to date with real-time weather conditions with my mobile weather station. Whether you're on the go or at home, our devices ensure you stay informed and can easily adjust to changing weather conditions no matter where you are.&rdquo;
                 </p>
                 <footer className="text-sm pt-3">Made with ♡ by LEHUNGTHINH</footer>
               </blockquote>

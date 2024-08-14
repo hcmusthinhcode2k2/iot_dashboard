@@ -31,7 +31,7 @@ export function Navbar() {
               <SettingDrawer />
             </li>
             <li>
-              <Link href={"https://demo.thingsboard.io/dashboard/4821b720-32a0-11ef-9229-f3aa570680fb?publicId=11060700-0c1c-11ef-b68a-bfe4060367e5"} target="_blank">
+              <Link href={"https://github.com/hcmusthinhcode2k2/iot_dashboard"} target="_blank">
                 <Button variant={"ghost"} className="gap-1">
                   <Icons.gitHub className="h-5 w-5" />
                   <p className="hidden md:block">Github</p>
