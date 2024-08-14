@@ -2,7 +2,6 @@
 import { useEffect, useState } from "react";
 import { Card } from "./Card";
 import { Icons } from "./icons";
-import DashboardChart from "./charts/DashboardChart";
 import {
   Navigation,
   Pagination,
