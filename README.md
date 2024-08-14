@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
-![Main Dashboard](https://drive.google.com/uc?id=1LaSkY21P2FOHgRhko0UZ-YuMjKwQyOyz)
+## Main Dashboard
+!(https://drive.google.com/uc?id=1LaSkY21P2FOHgRhko0UZ-YuMjKwQyOyz)
 
 
